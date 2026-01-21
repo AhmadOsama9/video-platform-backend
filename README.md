@@ -1,4 +1,4 @@
-# Restricted TikTok Clone Backend
+# video-platform-backend
 
 A robust backend system inspired by TikTok, designed to provide a **secure and efficient** user experience while incorporating content restrictions suitable for a more controlled social environment. Unlike conventional TikTok, this platform is **moderated and refined** to better align with societal values.
 
